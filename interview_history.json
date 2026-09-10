@@ -1,0 +1,28 @@
+[
+  {
+    "id": "2026-09-10T09:33:44.479589+00:00",
+    "date": "10 Sep 2026",
+    "candidate_name": "Akshay Kumar",
+    "role": "Python Developer",
+    "interview_type": "HR",
+    "questions_answered": 1,
+    "overall": 30,
+    "report": {
+      "overall": 30,
+      "technical": 30,
+      "communication": 33,
+      "correctness": 30,
+      "completeness": 25,
+      "strengths": [
+        "Provided a structured response"
+      ],
+      "weaknesses": [
+        "Offline scoring cannot verify every technical claim"
+      ],
+      "topics": [
+        "Add a concrete example"
+      ],
+      "summary": "A promising interview performance. Continue practicing concise explanations, concrete examples, and the topics identified above."
+    }
+  }
+]
